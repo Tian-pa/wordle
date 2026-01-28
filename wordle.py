@@ -22,3 +22,4 @@ while intentos < 6:
     palabra_ingresada = input("Ingrese una palabra: ")
     print(f"la palabra ingresada es: {palabra_ingresada}")
     verificador_palabra(palabra_ingresada, 'calor')
+    # 
